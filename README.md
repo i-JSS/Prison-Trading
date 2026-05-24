@@ -1,11 +1,8 @@
-<center>
+<div align="center">
 
 # Prison Trading
-</center>
 
----
 
-<center>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -15,7 +12,11 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![UnB](https://img.shields.io/badge/UnB-SBD1%202024--1-red?style=for-the-badge)
 
-</center>
+---
+
+![Prison Trading](images/outputpt.gif)
+
+</div>
 
 <p style="text-indent: 2cm; text-align: justify;">
 Prison Trading  é um jogo de estratégia e simulação com foco em resolver quebra-cabeças e trocas como elemento central. Nele, você assume o papel de um prisioneiro em uma prisão isolada, cada uma com seus próprios desafios e obstáculos. O objetivo principal é escapar da prisão, mas ao invés de simplesmente encontrar uma saída, você precisa resolver puzzles  para obter os itens necessários e criar os planos de fuga.
@@ -30,7 +31,6 @@ A troca de itens é crucial para o sucesso, já que você precisa negociar com o
 Além disso, você também precisa estar atento aos guardas e às rotinas da prisão, evitando chamar atenção enquanto trabalha em sua fuga. Combinando elementos de quebra-cabeças, estratégia e negociação, Prison Trading  oferece uma experiência desafiadora e envolvente para os jogadores que buscam um desafio intelectual e criativo.
 </p>
 
-![Prison Trading](images/outputpt.gif)
 
 ---
 

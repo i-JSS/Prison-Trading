@@ -1,6 +1,6 @@
 <center>
 
-# 2024.1 - Prison Trading
+# Prison Trading
 </center>
 
 ---
@@ -8,7 +8,12 @@
 <center>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostGres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PLpgSQL](https://img.shields.io/badge/PL%2FpgSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![psycopg2](https://img.shields.io/badge/psycopg2-2.9-blue?style=for-the-badge)
+![pgAgent](https://img.shields.io/badge/pgAgent-Scheduler-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![UnB](https://img.shields.io/badge/UnB-SBD1%202024--1-red?style=for-the-badge)
 
 </center>
 
@@ -24,6 +29,8 @@ A troca de itens é crucial para o sucesso, já que você precisa negociar com o
 <p style="text-indent: 2cm; text-align: justify;">
 Além disso, você também precisa estar atento aos guardas e às rotinas da prisão, evitando chamar atenção enquanto trabalha em sua fuga. Combinando elementos de quebra-cabeças, estratégia e negociação, Prison Trading  oferece uma experiência desafiadora e envolvente para os jogadores que buscam um desafio intelectual e criativo.
 </p>
+
+![Prison Trading](images/outputpt.gif)
 
 ---
 
